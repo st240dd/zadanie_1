@@ -6,9 +6,9 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Nazwa projektu'
+project = 'Zadanie na ocenę'
 copyright = '2025, Drożdż'
-author = 'Drożdż'
+author = 'Dawid Drożdż'
 release = '1'
 
 # -- General configuration ---------------------------------------------------
